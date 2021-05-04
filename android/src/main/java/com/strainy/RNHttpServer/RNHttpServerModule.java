@@ -2,6 +2,8 @@ package com.strainy.RNHttpServer;
 
 import com.strainy.RNHttpServer.Server;
 
+import androidx.appcompat.app.AppCompatActivity;
+
 import com.facebook.react.bridge.NativeModule;
 import com.facebook.react.bridge.ReactApplicationContext;
 import com.facebook.react.bridge.ReactContext;
